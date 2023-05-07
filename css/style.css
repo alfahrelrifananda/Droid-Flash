@@ -523,7 +523,7 @@ footer div .copyright {
 
 
 
-@media screen (max-width: 768px) {
+@media screen and (max-width: 1000px) {
   
   body, html {
    overflow-x: hidden;
@@ -538,7 +538,6 @@ footer div .copyright {
   nav {
     position: fixed;
     margin-top: 0;
-    width: 50px;
   }
   /* HEADER-HAMBURGER */
   nav .hamburger {

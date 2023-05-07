@@ -524,11 +524,10 @@ footer div .copyright {
 
 
 
-@media (max-width:768px) {
+@media (min-width:320px) {
   
   body, html {
    overflow-x: hidden;
-   font-size: 62.5%;
   }
   
   /* BUTTON */

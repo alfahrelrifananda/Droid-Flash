@@ -565,7 +565,7 @@ footer div .copyright {
   nav .list {
     position: absolute;
     z-index: 5;
-    margin-top: 60px;
+    margin-top: 55px;
     margin-left: -15px;
     background-color: #092E41;
     width: 100%;
@@ -582,7 +582,7 @@ footer div .copyright {
   nav .list ul {
     flex-direction: column;
     text-align: center;
-    width: 80%;
+    width: 90%;
   }
   
   /* CONTAINER */

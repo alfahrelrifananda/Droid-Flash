@@ -518,7 +518,7 @@ footer div .copyright {
 
 
 
-@media only screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
   
   body, html {
    overflow-x: hidden;

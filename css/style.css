@@ -523,7 +523,7 @@ footer div .copyright {
 
 
 
-@media only screen and (min-width: 500px), screen and (max-width: 768px) {
+@media only screen and (min-width: 360px), screen and (max-width: 500px) {
   
   body, html {
    overflow-x: hidden;
@@ -580,7 +580,7 @@ footer div .copyright {
   nav .list ul {
     flex-direction: column;
     text-align: center;
-    width: 35%;
+    width: 80%;
   }
   
   /* CONTAINER */
